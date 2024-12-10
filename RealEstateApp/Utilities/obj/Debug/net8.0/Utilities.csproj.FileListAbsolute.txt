@@ -1,0 +1,14 @@
+C:\Projects\A5\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Projects\A5\Utilities\bin\Debug\net8.0\Utilities.runtimeconfig.json
+C:\Projects\A5\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Projects\A5\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.csproj.AssemblyReference.cache
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Projects\A5\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Projects\A5\Utilities\obj\Debug\net8.0\Utilities.genruntimeconfig.cache
+C:\Projects\A5\Utilities\obj\Debug\net8.0\ref\Utilities.dll

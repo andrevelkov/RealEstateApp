@@ -1,0 +1,17 @@
+C:\Projects\A5\EstateLogic\bin\Debug\net8.0\EstateLogic.deps.json
+C:\Projects\A5\EstateLogic\bin\Debug\net8.0\EstateLogic.dll
+C:\Projects\A5\EstateLogic\bin\Debug\net8.0\EstateLogic.pdb
+C:\Projects\A5\EstateLogic\bin\Debug\net8.0\EstateDataAccess.dll
+C:\Projects\A5\EstateLogic\bin\Debug\net8.0\Utilities.dll
+C:\Projects\A5\EstateLogic\bin\Debug\net8.0\EstateDataAccess.pdb
+C:\Projects\A5\EstateLogic\bin\Debug\net8.0\Utilities.pdb
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLogic.csproj.AssemblyReference.cache
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLogic.AssemblyInfoInputs.cache
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLogic.AssemblyInfo.cs
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLogic.csproj.CoreCompileInputs.cache
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLo.46F479C4.Up2Date
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLogic.dll
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\refint\EstateLogic.dll
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\EstateLogic.pdb
+C:\Projects\A5\EstateLogic\obj\Debug\net8.0\ref\EstateLogic.dll

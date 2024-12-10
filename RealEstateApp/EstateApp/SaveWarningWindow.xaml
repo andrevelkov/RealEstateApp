@@ -1,0 +1,23 @@
+﻿<Window x:Name="mainWindow" x:Class="EstateApp.SaveWarningWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EstateApp"
+        mc:Ignorable="d"
+        Title="SaveWarningWindow"
+        WindowStartupLocation="CenterOwner"
+        SizeToContent="WidthAndHeight"
+        Height="150" 
+        Width="250">
+
+    <Grid HorizontalAlignment="Center" Width="220" Height="134" VerticalAlignment="Top">
+        <Label Content="Proceed without saving?" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50" FontSize="16"/>
+        
+        <Button x:Name="btnProceed" Content="Proceed" HorizontalAlignment="Left" Margin="20,0,0,20" VerticalAlignment="Bottom" Width="70" Click="btnProceed_Click" FontSize="14"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Right" Margin="0,0,20,20" VerticalAlignment="Bottom" Width="70" Click="btnBack_Click" FontSize="14"/>
+
+
+    </Grid>
+
+</Window>

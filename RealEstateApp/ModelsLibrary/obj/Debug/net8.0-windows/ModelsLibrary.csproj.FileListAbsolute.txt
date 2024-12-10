@@ -1,0 +1,15 @@
+C:\Projects\A5\ModelsLibrary\bin\Debug\net8.0-windows\ModelsLibrary.deps.json
+C:\Projects\A5\ModelsLibrary\bin\Debug\net8.0-windows\ModelsLibrary.dll
+C:\Projects\A5\ModelsLibrary\bin\Debug\net8.0-windows\ModelsLibrary.pdb
+C:\Projects\A5\ModelsLibrary\bin\Debug\net8.0-windows\Utilities.dll
+C:\Projects\A5\ModelsLibrary\bin\Debug\net8.0-windows\Utilities.pdb
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLibrary.csproj.AssemblyReference.cache
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLibrary.AssemblyInfoInputs.cache
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLibrary.AssemblyInfo.cs
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLi.83DD8BEE.Up2Date
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLibrary.dll
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\refint\ModelsLibrary.dll
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ModelsLibrary.pdb
+C:\Projects\A5\ModelsLibrary\obj\Debug\net8.0-windows\ref\ModelsLibrary.dll

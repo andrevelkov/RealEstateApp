@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668C4C43-98C8-4580-BC5E-6C66172B2C0B}|EstateApp.csproj|c:\\users\\andre\\github\\realestateapp\\realestateapp\\estateapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668C4C43-98C8-4580-BC5E-6C66172B2C0B}|EstateApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF420A0-5093-46EA-98D7-F6333CED2F53}|..\\EstateDataAccess\\EstateDataAccess.csproj|c:\\users\\andre\\github\\realestateapp\\realestateapp\\estatedataaccess\\estatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668C4C43-98C8-4580-BC5E-6C66172B2C0B}|EstateApp.csproj|c:\\users\\andre\\github\\realestateapp\\realestateapp\\estateapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{668C4C43-98C8-4580-BC5E-6C66172B2C0B}|EstateApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BEFAF6-9E8A-42CC-B3B7-650421086527}|..\\EstateLogic\\EstateLogic.csproj|c:\\users\\andre\\github\\realestateapp\\realestateapp\\estatelogic\\ilistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BEFAF6-9E8A-42CC-B3B7-650421086527}|..\\EstateLogic\\EstateLogic.csproj|c:\\users\\andre\\github\\realestateapp\\realestateapp\\estatelogic\\listmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F426A92-9A6F-4893-85F8-F2C9DA9D514C}|..\\Utilities\\Utilities.csproj|c:\\users\\andre\\github\\realestateapp\\realestateapp\\utilities\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T10:32:00.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:18:54.521Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstateContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateDataAccess\\EstateContext.cs",
+              "RelativeDocumentMoniker": "..\\EstateDataAccess\\EstateContext.cs",
+              "ToolTip": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateDataAccess\\EstateContext.cs",
+              "RelativeToolTip": "..\\EstateDataAccess\\EstateContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:54:43.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListManager.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateLogic\\ListManager.cs",
+              "RelativeDocumentMoniker": "..\\EstateLogic\\ListManager.cs",
+              "ToolTip": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateLogic\\ListManager.cs",
+              "RelativeToolTip": "..\\EstateLogic\\ListManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:27:25.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IListManager.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateLogic\\IListManager.cs",
+              "RelativeDocumentMoniker": "..\\EstateLogic\\IListManager.cs",
+              "ToolTip": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\EstateLogic\\IListManager.cs",
+              "RelativeToolTip": "..\\EstateLogic\\IListManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:27:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\Utilities\\StringHelper.cs",
+              "RelativeDocumentMoniker": "..\\Utilities\\StringHelper.cs",
+              "ToolTip": "C:\\Users\\Andre\\GitHub\\RealEstateApp\\RealEstateApp\\Utilities\\StringHelper.cs",
+              "RelativeToolTip": "..\\Utilities\\StringHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:26:54.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

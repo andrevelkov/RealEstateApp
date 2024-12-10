@@ -1,0 +1,14 @@
+C:\Projects\A5\EstateDataDTO\bin\Debug\net8.0-windows\EstateDataDTO.deps.json
+C:\Projects\A5\EstateDataDTO\bin\Debug\net8.0-windows\EstateDataDTO.runtimeconfig.json
+C:\Projects\A5\EstateDataDTO\bin\Debug\net8.0-windows\EstateDataDTO.dll
+C:\Projects\A5\EstateDataDTO\bin\Debug\net8.0-windows\EstateDataDTO.pdb
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.csproj.AssemblyReference.cache
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.AssemblyInfoInputs.cache
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.AssemblyInfo.cs
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.csproj.CoreCompileInputs.cache
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.dll
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\refint\EstateDataDTO.dll
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.pdb
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\EstateDataDTO.genruntimeconfig.cache
+C:\Projects\A5\EstateDataDTO\obj\Debug\net8.0-windows\ref\EstateDataDTO.dll
